@@ -15,8 +15,14 @@
 @implementation AppDelegate
 
 
+// - is instance method, + is class
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    // register push notification
+    
+    
     return YES;
 }
 
